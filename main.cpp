@@ -4,13 +4,10 @@
 //q to quit
 //directional keys are w,a,s,d not the arrows
 //manual included at the bottom of the code
-<<<<<<< Updated upstream
 
 // This is better than texting
-=======
 //CHANGE CHANGE CHANGE CHANGE
 
->>>>>>> Stashed changes
 #include <iostream>
 #include <ctime>
 #include <string>
