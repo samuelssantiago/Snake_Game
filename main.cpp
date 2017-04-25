@@ -4,8 +4,13 @@
 //q to quit
 //directional keys are w,a,s,d not the arrows
 //manual included at the bottom of the code
+<<<<<<< Updated upstream
 
 // This is better than texting
+=======
+//CHANGE CHANGE CHANGE CHANGE
+
+>>>>>>> Stashed changes
 #include <iostream>
 #include <ctime>
 #include <string>
@@ -368,8 +373,7 @@ int main()
  Welcome to your brand new worm game!
  
  For those of you who have never played games before, you're in for a treat
- 
- 
+  
  Movement is simple in this game, use the characters 'w' 'a' 's' and 'd' to go up, left, down, and right in that order.
  
  feeling extremely frustrated? Press 'q' to quit and keep the change!
