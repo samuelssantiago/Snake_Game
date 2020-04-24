@@ -24,7 +24,7 @@
 
 using namespace std;
 
-// wait funciton to slow down refresh loop
+// wait function to slow down refresh loop
 void wait()
 {
     
@@ -35,7 +35,7 @@ void wait()
 #endif
     
 }
-// another wait fuciton for the die function that helps to display the die screen for a couple seconds before the game is quit without being able to move
+// another wait function for the die function that helps to display the die screen for a couple seconds before the game is quit without being able to move
 void die_wait()
 {
     
